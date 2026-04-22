@@ -65,7 +65,7 @@ cd YubAI-DramaFlow
 **这是什么？**
 - 这是一个**方法论工具包**，包含模板、指南、案例
 - 无需安装任何依赖，下载即用
-- 用你喜欢的AI工具（GPT、Claude、Gemini等）配合模板即可开始创作
+- 用你喜欢的AI智能体（OpenClaw、Claude Code、Hermes Agent等）配合模板即可开始创作
 
 ### 2️⃣ 我该怎么开始？
 
