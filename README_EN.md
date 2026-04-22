@@ -61,7 +61,7 @@ Click `Code` → `Download ZIP` in the top right corner, extract and use.
 **What is this?**
 - A **methodology toolkit** containing templates, guides, and examples
 - No dependencies to install, download and use
-- Works with your favorite AI tools (GPT, Claude, Gemini, etc.)
+- Works with your favorite AI agents (OpenClaw, Hermes Agent, Claude Code, etc.)
 
 ### 2️⃣ Where Should I Start?
 
