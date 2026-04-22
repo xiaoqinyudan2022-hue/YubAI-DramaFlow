@@ -113,7 +113,7 @@ Before submitting:
 
 ## 💬 Contact
 
-- **Bilibili**: [@鱼摆摆](https://space.bilibili.com/517221495)
+- **Bilibili**: [@鱼摆摆喂](https://space.bilibili.com/299467431)
 - **WeChat**: 鱼摆摆喂
 - **Issues**: Use GitHub Issues for discussions
 
