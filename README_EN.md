@@ -216,7 +216,7 @@ This project uses [MIT License](./LICENSE) - Free for commercial use, no authori
 
 ### 📺 Bilibili
 
-[**@鱼摆摆**](https://space.bilibili.com/517221495) - AI content creator, sharing AI tools, video creation, and productivity tips
+[**@鱼摆摆喂**](https://space.bilibili.com/299467431) - AI content creator, sharing AI tools, video creation, and productivity tips
 
 ### 📱 WeChat Official Account
 
