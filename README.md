@@ -300,7 +300,7 @@ missing limbs, watermark, text, bad face, ugly face
 
 ### 📺 B站主页
 
-[**@鱼摆摆**](https://space.bilibili.com/517221495) - AI领域UP主，分享AI工具、视频创作、效率提升等内容
+[**@鱼摆摆喂**](https://space.bilibili.com/299467431) - AI领域UP主，分享AI工具、视频创作、效率提升等内容
 
 ### 📱 微信公众号
 
